@@ -1,0 +1,95 @@
+{
+    "users": [
+      {
+        "first_name": "Jean",
+        "last_name": "Dupont",
+        "address": "7 rue du Progrès, 75016 Paris",
+        "number": "+33601010101"
+      },
+      {
+        "first_name": "John",
+        "last_name": "Doe",
+        "address": "123 Main St, Anytown, USA",
+        "number": "+1234567890"
+      },
+      {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "address": "456 Elm St, Othertown, USA",
+        "number": "+1987654321"
+      },
+      {
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "address": "789 Maple St, Somewhere, USA",
+        "number": "+11234567890"
+      },
+      {
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "address": "101 Pine St, Smalltown, USA",
+        "number": "+19876543210"
+      },
+      {
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "address": "202 Oak St, Villagetown, USA",
+        "number": "+1234509876"
+      },
+      {
+        "first_name": "Michael",
+        "last_name": "Wilson",
+        "address": "303 Birch St, Hilltown, USA",
+        "number": "+10987654321"
+      },
+      {
+        "first_name": "Emma",
+        "last_name": "Garcia",
+        "address": "404 Cedar St, Laketown, USA",
+        "number": "+1478523690"
+      },
+      {
+        "first_name": "James",
+        "last_name": "Martinez",
+        "address": "505 Spruce St, Rivertown, USA",
+        "number": "+1234567000"
+      },
+      {
+        "first_name": "Olivia",
+        "last_name": "Rodriguez",
+        "address": "606 Redwood St, Forestville, USA",
+        "number": "+1987600000"
+      },
+      {
+        "first_name": "David",
+        "last_name": "Martinez",
+        "address": "123 Elm St, Big City, USA",
+        "number": "+15001234567"
+      },
+      {
+        "first_name": "Sophia",
+        "last_name": "Lopez",
+        "address": "789 Oak St, Small City, USA",
+        "number": "+16009876543"
+      },
+      {
+        "first_name": "Benjamin",
+        "last_name": "Lee",
+        "address": "456 Pine St, Large City, USA",
+        "number": "+17123456789"
+      },
+      {
+        "first_name": "Charlotte",
+        "last_name": "Harris",
+        "address": "321 Cedar St, Metropolis, USA",
+        "number": "+18009876543"
+      },
+      {
+        "first_name": "Daniel",
+        "last_name": "Clark",
+        "address": "654 Birch St, Urbanville, USA",
+        "number": "+19001234567"
+      }
+    ]
+  }
+  
